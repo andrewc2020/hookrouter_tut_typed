@@ -1,3 +1,17 @@
+
+# Hookrouter_tut_typed
+
+This was the result of following along Peter Ekene Eze's article How React Hooks can replace React Router and in particular the steps in the accompanying video https://youtu.be/RI_SRAztbsg with the same title.
+
+The code has been adapted for Typescript.
+
+To run type Yarn build and then Yarn start
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
