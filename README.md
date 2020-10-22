@@ -5,6 +5,10 @@ This was the result of following along Peter Ekene Eze's article How React Hooks
 
 The code has been adapted for Typescript.
 
+Initially I came across the same errors which provoked Michael Moore's Frontend Weekly post entitled.
+
+TypeScript Error TS7031 Makes me go “huh?”. His article was most illuminating and is probably a better approach than simply changing the tsconfig.json to accept implicit any.
+
 To run type Yarn build and then Yarn start
 
 

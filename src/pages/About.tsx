@@ -1,9 +1,9 @@
 import React from 'react'
 import {Page} from '../components/Page';
 import { useRoutes } from 'hookrouter';
-import {AboutMe} from '../pages/AboutMe';
-import {AboutMyCat} from '../pages/AboutMyCat';
-import {AboutMyDog} from '../pages/AboutMyDog';
+import {AboutMe} from './AboutMe';
+import {AboutMyCat} from './AboutMyCat';
+import {AboutMyDog} from './AboutMyDog';
 import {A} from 'hookrouter';
 
 const routes = {
