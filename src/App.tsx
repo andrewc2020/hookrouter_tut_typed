@@ -11,7 +11,7 @@ import {NotFound} from './pages/NotFound';
 const routes = {
   '/': () => <Home />,
   '/about/*': () => <About />,
-  '/contact/:name': ({name}) => <Contact name={name} />
+  '/contact/:name': ({name}:{[key:string]:any}) => <Contact name={name} />
 }
 
 function App() {

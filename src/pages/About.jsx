@@ -1,7 +1,6 @@
 import React from 'react'
 import {Page} from '../components/Page';
 import { useRoutes } from 'hookrouter';
-import {NotFound} from '../pages/NotFound';
 import {AboutMe} from '../pages/AboutMe';
 import {AboutMyCat} from '../pages/AboutMyCat';
 import {AboutMyDog} from '../pages/AboutMyDog';
